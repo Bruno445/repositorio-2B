@@ -13,15 +13,19 @@
            </ul>  
      </nav>
 <nav class= "menu-lateral>
-  <div><a href=" "> prof jonatas</a></div>
-    <div><a href=" "> prof edivaldo</a></div>
-    <div><a href=" "> prof edina</a></div>
-    <div><a href=" "> prof jocimara</a></div>
-    <div><a href=" "> prof sirlene</a></div>
-    <div><a href=" "> prof edilene</a></div>
-    <div><a href=" "> prof marcia</a></div>
-    <div><a href=" "> prof rosilda</a></div>
-    <div><a href=" "> prof joaquina</a></div>
+ <form class='botoes'
+<button type='submit' id='perfil-jonatas'> prof. jonatas</button>
+<button type='submit' id='perfil-edilene'> prof. edilene</button>
+<button type='submit' id='perfil-marcia'> prof. marcia</button>
+<button type='submit' id='perfil-edinha'> prof. edinha</button>
+<button type='submit' id='perfil-joaquina'> prof. joaquina</button>
+<button type='submit' id='perfil-edivaldo'> prof. edivaldo</button>
+<button type='submit' id='perfil-rosilda'> prof. rosilda</button>
+<button type='submit' id='perfil-jocimara'> prof. jocimara</button>
+<button type='submit' id='perfil-sirlene'> prof.sirlene</button>
+</form>
+
+
 </nav>
 <div class='perfil'>
 </div>
