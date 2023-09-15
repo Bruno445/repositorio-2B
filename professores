@@ -14,16 +14,21 @@
      </nav>
 <nav class= "menu-lateral>
  <form class='botoes'
-<button type='submit' id='perfil-jonatas'> prof. jonatas</button>
-<button type='submit' id='perfil-edilene'> prof. edilene</button>
-<button type='submit' id='perfil-marcia'> prof. marcia</button>
-<button type='submit' id='perfil-edinha'> prof. edinha</button>
-<button type='submit' id='perfil-joaquina'> prof. joaquina</button>
-<button type='submit' id='perfil-edivaldo'> prof. edivaldo</button>
-<button type='submit' id='perfil-rosilda'> prof. rosilda</button>
-<button type='submit' id='perfil-jocimara'> prof. jocimara</button>
-<button type='submit' id='perfil-sirlene'> prof.sirlene</button>
+<button type='button' id='perfil-jonatas'> prof. jonatas</button>
+<button type='button' id='perfil-edilene'> prof. edilene</button>
+<button type='button' id='perfil-marcia'> prof. marcia</button>
+<button type='button' id='perfil-edinha'> prof. edinha</button>
+<button type='button' id='perfil-joaquina'> prof. joaquina</button>
+<button type='button' id='perfil-edivaldo'> prof. edivaldo</button>
+<button type='button' id='perfil-rosilda'> prof. rosilda</button>
+<button type='button' id='perfil-jocimara'> prof. jocimara</button>
+<button type='button' id='perfil-sirlene'> prof.sirlene</button>
 </form>
+nav>
+<div class='perfil'>/h2>
+<h2 id='nome'>nome do professor<h/2h>
+<img id='foto-perfil' class=foto-perfil' src='../site/perfil-vazio.png' alt=''>
+<h4 id='d
 
 
 </nav>
